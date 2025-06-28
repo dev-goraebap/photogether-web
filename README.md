@@ -1,24 +1,3 @@
-# README
+# 포토게더 API, WEB
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+포토게더 앱의 api와 랜딩사이트 및 관리자웹사이트를 관리하는 프로젝트
